@@ -1,0 +1,26 @@
+#menu-utilisateur{
+	background-color: #4498C8;
+	height: 10em;
+}
+#menu-ariary{
+	margin-bottom: 0px;
+}
+#logo-ariary{
+	width: 3em;
+	height: 3em;
+	margin-left: 10px;
+}
+
+#logo-commercant{
+	margin: 18px 10px 10px 15px;
+	border: 2px solid #e3e3e3;
+	background-color: white;    
+    width:100px;
+    height:100px;
+    /*border-radius:50px;*/
+}
+
+#commercant-name{
+	display: inline-block;
+	margin: 55px 20px 20px -90px;
+}
